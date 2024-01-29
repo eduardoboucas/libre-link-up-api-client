@@ -1,5 +1,5 @@
 {
-  "name": "@diakem/libre-link-up-api-client",
+  "name": "@eduardoboucas/libre-link-up-api-client",
   "version": "0.6.1",
   "description": "Libre Link Up client to retrieve cgm data directly from sharing service",
   "publishConfig": {
